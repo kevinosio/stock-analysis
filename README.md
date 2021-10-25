@@ -13,8 +13,8 @@ The difference between 2017 vs 2018 is big. For example, in 2017 about 92% of al
 ###Execution Times
 
 The Vba script ran a little bit faster after being refactored.
-![Execution_time_original script](https://user-images.githubusercontent.com/90880346/138620375-09444a49-dd85-43a2-b616-0121400bca10.png)
 
+![Execution_time_original script](https://user-images.githubusercontent.com/90880346/138620375-09444a49-dd85-43a2-b616-0121400bca10.png)
 ![Refactored_script](https://user-images.githubusercontent.com/90880346/138620378-0f7caaa3-4629-45be-99b6-513607c1c47a.png)
 
 ##Summary
