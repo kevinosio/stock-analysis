@@ -6,6 +6,7 @@ The purpose of this project was to help Steve investigate the status of differen
 ## Results
 
 The difference between 2017 vs 2018 is big. For example, in 2017 about 92% of all the stocks presented were in the green on return. In 2018 only 17% of the Stocks were positive in returns. 
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/90880346/138620383-98c0af71-1011-439f-877d-a89efaebde41.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/90880346/138620387-5161f4e6-dcda-43b4-bad9-fb2d9c11d80d.png)
 
